@@ -1,6 +1,6 @@
 # Pocket+
 ## Watch the demo
-[![Watch the video](https://i.imgur.com/7ctzH1F.png)](https://streamable.com/xwp1f7)
+[![Watch the video](https://i.imgur.com/7ctzH1F.png)](https://streamable.com/bpo7h1)
 
 
 ## General info
